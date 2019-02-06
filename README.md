@@ -1,1 +1,1 @@
-# Recommender-Systems-in-Python-101
+# Recommender-Systems-in-Python-101-Activity
